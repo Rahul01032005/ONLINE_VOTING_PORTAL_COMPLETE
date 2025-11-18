@@ -9,5 +9,5 @@ IT IS A PURE PHP PROJECT WITH MY SQL
 - Security: To verify the Voters, Mobile OTP Verification is used via API for enhanced security.
 
 ## Admin Panel Login Details
-- Username: ssvps@gmail.com
-- Password: pass@123
+- Username: rahul@gmail.com
+- Password: Rahul@123
